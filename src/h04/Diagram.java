@@ -1,8 +1,7 @@
 package h04;
 //Java staafdiagram
 
-import javax.xml.soap.Text;
-import java.awt.*;
+
 import java.applet.*;
 import java.awt.Color;
 import java.awt.Graphics;

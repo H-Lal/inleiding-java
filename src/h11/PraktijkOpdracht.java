@@ -12,7 +12,6 @@ public class PraktijkOpdracht extends Applet {
     int x, y, getal;
     TextField tekstvak;
     Label label;
-
     public void init() {
         setSize(500, 500);
         tafel = 0;
@@ -39,6 +38,7 @@ public class PraktijkOpdracht extends Applet {
     class Listen implements ActionListener {
         public void actionPerformed(ActionEvent e) {
             tafel=(Integer.parseInt(tekstvak.getText()));
+
             repaint();
         }
     }

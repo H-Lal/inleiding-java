@@ -20,8 +20,8 @@ public class Variabelen2 extends Applet {
     width= 50;
     getallenlijn= 193;
     nulpunt=180;
-    jeroen = 80;
-    hans = 100;
+    jeroen = 10;
+    hans = 120;
     valerie = 60;
     yas_valerie= nulpunt - valerie;
     yas_hans= nulpunt - hans;

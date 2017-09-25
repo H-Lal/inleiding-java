@@ -48,6 +48,7 @@ public class Knoppen1 extends Applet {
     class KnopListener2 implements ActionListener {
         public void actionPerformed(ActionEvent e) {
             s = "";
+            tekstvak.setText("");
             repaint();
 
         }

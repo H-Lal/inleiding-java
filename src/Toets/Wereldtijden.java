@@ -9,7 +9,7 @@ public class Wereldtijden extends Applet {
     private TextField tekstvak;
     private Button knop;
     private Label label;
-    int tijdinlonden, tijdinindia, tijdincanada, tijdinjapan, japantijd;
+    int tijdinlonden, tijdinindia, tijdincanada, tijdinjapan ;
     private int invoer;
     private ActionListener a;
     private boolean gekliked;
